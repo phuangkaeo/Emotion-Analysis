@@ -1,4 +1,4 @@
-## Context of the project
+# Context of the project
 In addition to this, you need to know more about it.
 
 You will have to propose several models of classification of emotions and propose a qualitative and quantitative analysis of these models according to evaluation criteria. You will have to investigate through standard machine learning libraries and natural language processing how to obtain the results. best possible prediction performance by taking into account the multi-class aspect of the problem and exploring the impact on the prediction of various preprocessing such as stop-word removal, lemmatization and the use of n-grams, and different approach for vectorization.
